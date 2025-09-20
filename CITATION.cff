@@ -1,0 +1,23 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: MATLAB; SPYDER
+message: lenguaje m; python
+type: software
+authors:
+  - given-names: Paul A.
+    family-names: Valle
+    email: paul.valle@tectijuana.edu.mx
+    affiliation: TecNM-ITT
+    orcid: 'https://orcid.org/0000-0001-6567-1065'
+repository-code: 'https://github.com/DrPaulValle/Practica0MSFA'
+keywords:
+  - Circuito RLC
+  - Controlador PID
+  - Sistema respiratorio
+  - Modelo matemático
+  - Simulaciones numéricas
+license: BSD-2-Clause
+version: '1.0'
+date-released: '2025-09-19'
